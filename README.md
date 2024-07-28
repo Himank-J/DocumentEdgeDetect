@@ -36,4 +36,4 @@ As seen in above image, without any custom training FastSAM is able to identify 
 
 ### References
 
-1.) [FastSAM] (https://github.com/CASIA-IVA-Lab/FastSAM)
+1.) [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM)
